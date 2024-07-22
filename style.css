@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}section{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}.carimage-content{
+    background-image: url(car-1880381_1280.jpg);
+    background-attachment:scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    box-shadow: 3px;
+}.navbar-nav .nav-link {
+    color: #fff !important;
+}.navbar .navbar-brand{
+    display: inline-block;
+    font-size: 24px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 120px;
+
+}
+.navbar-brand{
+    color: white !important;
+}
+.main-box{
+    color: white;
+    text-align: center;
+    padding: 154px;
+}.main-box p{
+    font-size: 20px;
+    font-weight: 500;
+    color:#fff;
+    padding-top: 30px;
+}
+.btn1{
+    padding: 12px;
+    color: white;
+    padding: 12px;
+    background-color: #084298;
+    border-radius: 2px;
+    border: 1px solid #084298;
+}.line-box{
+    width: 26px;
+    height: 10px;
+    border: 1px solid rgb(103, 78, 78);
+    background-color: blue;
+}.dealer-box{
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}.line-box2{
+    display: flex;
+    justify-content: center;
+}.line-box3{
+    width: 50px;
+    height: 15px;
+    background-color: blue;
+    border: 2px solid blue;
+}.checkout-box{
+   text-align: center;
+}.line-box4{
+    display: flex;
+    justify-content: center;
+}.image-content img{
+    margin: 30px;
+}.card-img{
+    padding: 35px 25px;
+}.list-group li{
+    list-style: none;
+}.card-bodypart .card-text{
+    font-size: 15px;
+    font-weight: 500;
+    color: #798484;
+}.list-group li{
+    font-size: 15px;
+    font-weight: 500;
+    color: #798484;
+    padding-left: 10px;
+}.card-bodypart{
+    padding: 20px 0px;
+}.About-box{
+    list-style: none;
+}.arrow-box{
+    position: relative;
+}.arrow-box .form-control{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding-left: 30px;
+}.arrow-box i{
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: black;
+    font-size: 40px;
+}.copyright-box{
+    position: relative;
+}.icon-part{
+    position: absolute;
+    right: 0px;
+    top: 34px;
+}.icon-part .bi{
+    padding: 0 10px;
+}
+.content-box p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #798484;
+}.btn2{
+    padding: 12px;
+    background-color: #084298;
+    border-radius: 2px;
+    border: 1px solid #084298;
+    color: white;
+}.content-box{
+    padding: 45px 15px;
+}.deal-box :hover{
+    background-color: #084298;
+}.text-content{
+    text-align: center;
+    padding-top: 82px;
+}.new-one{
+    height: 600px;
+    background-color: #f8f9fb;
+}
